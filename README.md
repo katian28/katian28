@@ -17,9 +17,6 @@ Computer Science and Statistics student at **Minerva University** with hands-on 
   <a href="http://www.linkedin.com/in/katian28">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=firefox" alt="Portfolio"/>
-  </a>
   <a href="mailto:gwaneza@uni.minerva.edu">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
