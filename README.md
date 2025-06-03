@@ -1,21 +1,4 @@
-## Hi there 👋
-
-<!--
-**katian28/katian28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Katia Nkurunziza
+# Hi there! I'm Katia Nkurunziza
 
 <div align="center">
   <img src="https://img.shields.io/badge/CS%20%26%20Statistics-Major-blueviolet" alt="CS & Statistics Major"/>
@@ -28,13 +11,13 @@ Here are some ideas to get you started:
 Passionate computer science and statistics student with a focus on AI/ML applications. CalHacks winner and AI4ALL scholar dedicated to using technology for social impact. Experienced in full-stack development, data science, and machine learning with a strong foundation in statistical analysis and problem-solving.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/katian28">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio-website.com">
+  <a href="https://portfolio-katia.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=firefox" alt="Portfolio"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto: gwaneza@uni.minerva.edu">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </div>
@@ -119,58 +102,5 @@ Personal portfolio website showcasing projects and technical skills
 </div>
 ```
 
-## 3. Customize Your Profile
-
-1. **Replace placeholder links**:
-   - Update LinkedIn URL (`your-linkedin`)
-   - Add your email address (`your-email@example.com`)
-   - Add your portfolio website URL (`your-portfolio-website.com`)
-
-2. **Add a profile picture**:
-   - Upload a professional photo to your GitHub account settings
-
-3. **Customize project links**:
-   - Make sure all GitHub repository links are correct
-   - Add any additional projects you want to feature
-
-4. **Update your skills**:
-   - Add or remove skills based on your actual expertise
-   - Adjust the badges to match your skill set
-
-## 4. Add GitHub Stats Widgets
-
-The README includes dynamic GitHub stats widgets that will automatically update. They're already included in the code, but you can customize them:
-
-1. The stats cards are from:
-   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-   - [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-2. You can customize colors by changing the `theme` parameter (options: dark, radical, merko, gruvbox, etc.)
-
-## 5. Optional Enhancements
-
-1. **Add a custom header image**:
-   ```markdown
-   <img src="your-banner-image-url.jpg" alt="Katia Nkurunziza - CS & Stats Major" width="100%">
-   ```
-
-2. **Add GitHub activity graph**:
-   ```markdown
-   ![Katia's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=katian28&theme=react-dark)
-   ```
-
-3. **Add top languages card**:
-   ```markdown
-   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katian28&layout=compact&theme=radical)
-   ```
-
-## 6. Commit and View Your Profile
-
-After editing the README.md file:
-1. Commit the changes
-2. Visit your GitHub profile at `https://github.com/katian28`
-3. Your new professional profile will be displayed!
-
-The profile will automatically update with your latest repositories, contributions, and stats as you continue to use GitHub.
 
 
